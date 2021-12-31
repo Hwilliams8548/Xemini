@@ -1,5 +1,5 @@
  // Print out some debug info...
-    printf("XENU Development build version %i\n", XENU_VERSION);
+    printf("Xemini V%i\n", XENU_VERSION);
     
     // Get a list of all available devices
     vector<string> allDevices = DeviceManager::GetDevices();
