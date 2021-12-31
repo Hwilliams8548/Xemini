@@ -1,10 +1,5 @@
-A metro styled dashboard for the Xbox 360 built using LibXenon.
-
-Requires an exploited Xbox 360 console (JTAG or glitched) running Xell.
-
-Currently searches all connected storage devices for applications, games and emulators.
-
-Expected folder structure is:
+Custom dashboard for xbox 360s that can load xell (RGH, JTAG, DevGL)
+Based on Xemu (a 10+ year old project)
 
 <drive>:\Applications\
 		       Foo\
