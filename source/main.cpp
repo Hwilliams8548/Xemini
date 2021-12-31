@@ -24,7 +24,7 @@ using namespace std;
 /*
  Xenu Version number
  */
-const int XENU_VERSION = 1;
+const int XENU_VERSION = 01;
 
 /*
  * If set to true will cause the main loop to break and as
